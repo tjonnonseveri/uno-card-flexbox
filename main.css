@@ -91,20 +91,18 @@ main {
 
 .haut {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	width: 100%;
-	height: 40px;
+	width: 50%;
 }
 
 .bas {
 	display: flex;
-	flex-direction: column;
+	flex-direction: row;
 	justify-content: center;
 	align-items: center;
-	width: 100%;
-	height: 40px;
+	width: 50%;
 }
 
 .red4 {
